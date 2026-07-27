@@ -67,5 +67,3 @@ This makes the system portable across Windows, macOS, and Linux.
   "os_system": "windows"
 }
 
-<img width="1600" height="981" alt="WhatsApp Image 2026-07-27 at 9 33 55 PM" src="https://github.com/user-attachments/assets/811ba5f7-aa1a-4db5-9b6d-ad980ab35aa2" />
-
