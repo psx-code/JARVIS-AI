@@ -1,0 +1,27 @@
+{
+  "identity": {
+    "name": {
+      "value": "poorna",
+      "updated": "2026-07-19"
+    }
+  },
+  "preferences": {
+    "start_with_news": {
+      "value": "true",
+      "updated": "2026-07-11"
+    }
+  },
+  "projects": {},
+  "relationships": {},
+  "wishes": {},
+  "notes": {
+    "current_date": {
+      "value": "July 11, 2026",
+      "updated": "2026-07-11"
+    },
+    "taking_rest": {
+      "value": "true",
+      "updated": "2026-07-12"
+    }
+  }
+}
