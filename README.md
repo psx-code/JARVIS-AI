@@ -44,9 +44,6 @@ JARVIS is a real-time, always-listening voice AI assistant that runs on your Win
 
 ### 💬 Messaging
 - **WhatsApp** — send messages to any contact by voice
-- **Telegram** — send messages to any Telegram contact
-- **Instagram DMs** — send direct messages via browser
-- **Any messaging app** — generic support for Messenger, Discord, Signal, and others
 
 ### 😴 Away Mode (Auto-Reply)
 - **Screen monitoring** — when you're asleep or in a meeting, JARVIS watches WhatsApp every 30 seconds
