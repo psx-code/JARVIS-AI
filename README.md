@@ -172,8 +172,8 @@ Built with **PyQt6** — a custom animated interface featuring:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/Mark-XXXIX-OR.git
-cd Mark-XXXIX-OR
+git clone https://github.com/psx-code/JARVIS-AI.git
+cd JARVIS px1tr
 
 # 2. Install dependencies
 pip install -r requirements.txt
