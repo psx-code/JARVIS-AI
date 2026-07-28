@@ -1,4 +1,4 @@
-# J.A.R.V.I.S — By Poorna -OR
+# J.A.R.V.I.S — By Poorna
 
 > **Just A Rather Very Intelligent System**  
 > A fully local, voice-driven AI assistant built for Windows — inspired by Tony Stark's JARVIS.
